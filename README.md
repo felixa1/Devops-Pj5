@@ -1,2 +1,1 @@
-# practice
-my execise
+# Client-Server Architecture with MySQL
